@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Sneha Gupta",
-  description: "Portfolio of Sneha Gupta - Full Stack Developer",
+  title: "snehaa",
+  description: "Portfolio of snehaa - Full Stack Developer",
 };
 
 export default function RootLayout({ children }) {

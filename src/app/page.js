@@ -69,7 +69,7 @@ const projects = [
       "use-sound",
     ],
     image: "/images/paw.jpeg",
-    github: "https://github.com/Snehagupta1907/paw-pets-aptos",
+    github: "https://github.com/snehaa-eth/paw-pets-aptos",
     live: "https://paw-pets-aptos.vercel.app/",
   },
   {
@@ -78,7 +78,7 @@ const projects = [
       "A full-stack platform to find ideal roommates or affordable rooms.",
     tech: ["ReactJS", "Node.js", "MongoDB", "Telegram Miniapp", "Express.js"],
     image: "/images/roomzy.jpeg",
-    github: "https://github.com/Snehagupta1907/Roomzy",
+    github: "https://github.com/snehaa-eth/Roomzy",
     live: "https://roomzy-axja.vercel.app/",
   },
   {
@@ -87,7 +87,7 @@ const projects = [
       "Built this to give a workshop on building onchain game on starknet. 1.6k people attended the worshop.",
     tech: ["Typescript", "Next.js", "Starknet.js", "Cairo"],
     image: "/images/tic-tac-toe.jpeg",
-    github: "https://github.com/Snehagupta1907/starknet-tictactoe",
+    github: "https://github.com/snehaa-eth/starknet-tictactoe",
     live: "https://starknet-tictactoe.vercel.app/",
   },
   {
@@ -114,7 +114,7 @@ const projects = [
       "A modern gaming platform blending early 2000s nostalgia with ETH staking and rewards.",
     tech: ["Next.js", "Express", "MongoDB", "Telegram Miniapp"],
     image: "/images/winfinity.jpeg",
-    github: "https://github.com/Snehagupta1907/winfinity-ancient8",
+    github: "https://github.com/snehaa-eth/winfinity-ancient8",
     live: "https://winfinity-ancient8.vercel.app",
   },
   {
@@ -123,7 +123,7 @@ const projects = [
       "Video Streaming platform aims to replicate some of the core functionalities of YouTube, allowing users to search and watch videos.",
     tech: ["React", "Node.js", "Rapid API", "MUI"],
     image: "/images/flixtube.png",
-    github: "https://github.com/Snehagupta1907/flixtube",
+    github: "https://github.com/snehaa-eth/flixtube",
     live: "https://flixtube19.netlify.app/",
   },
   {
@@ -132,7 +132,7 @@ const projects = [
       "This project is a fitness app built using React.js. It leverages the RapidAPI and YouTube API to fetch exercise data and related YouTube videos, respectively. ",
     tech: ["React.js", "Rapid api", "MUI", "Javascript"],
     image: "/images/fit.png",
-    github: "https://github.com/Snehagupta1907/Fitness-app",
+    github: "https://github.com/snehaa-eth/Fitness-app",
     live: "https://fitness-app-five-drab.vercel.app/",
   },
 ];
@@ -290,7 +290,7 @@ export default function Home() {
       <nav className="fixed top-0 w-full z-50 bg-black/20 backdrop-blur-sm">
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex justify-between items-center">
-            <span className="text-2xl font-bold text-white">Sneha Gupta</span>
+            <span className="text-2xl font-bold text-white">snehaa</span>
             <div className="space-x-8">
               <a
                 href="#about"
@@ -483,7 +483,7 @@ export default function Home() {
               LinkedIn
             </a>
             <a
-              href="https://github.com/Snehagupta1907"
+              href="https://github.com/snehaa-eth"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 border border-white/20 text-white rounded-full font-medium hover:bg-white/10 transition-colors inline-flex items-center gap-2"
@@ -498,7 +498,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-8 px-6 bg-black/20">
         <div className="max-w-7xl mx-auto text-center text-gray-400">
-          <p>© {new Date().getFullYear()} Sneha Gupta. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} snehaa. All rights reserved.</p>
         </div>
       </footer>
     </div>
